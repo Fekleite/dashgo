@@ -17,6 +17,9 @@
 - <a href="https://apexcharts.com"> Apexcharts.js </a>
 - <a href="https://react-hook-form.com"> React Hook Form </a>
 - <a href="https://github.com/jquense/yup"> Yup </a>
+- <a href="https://react-query.tanstack.com"> React Query </a>
+- <a href="https://miragejs.com"> Mirage JS </a>
+- <a href="https://github.com/marak/Faker.js/"> Faker </a>
 
 </br>
 </br>
