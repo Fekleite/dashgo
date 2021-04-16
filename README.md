@@ -1,4 +1,4 @@
-<h1> Dashgo 📌</h1>
+<h1> Dashgo 📈</h1>
 
 <p align="center"  > 
   <img align='right' width='18%' src="https://user-images.githubusercontent.com/48728541/113488473-c7050e00-9494-11eb-8cc8-0e5ccba76aa0.png" /> 
@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  Dashboard totalmente responsivo 
+  Dashboard genérico e responsivo em construção 🚧
 </p>
 
 <h2> Tecnologias utilizadas: </h2> 
